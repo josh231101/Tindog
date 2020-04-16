@@ -1,0 +1,50 @@
+body{
+  font-family: 'Montserrat',sans-serif;
+}
+#title {
+  color: white;
+  background-color: #ff4c68;
+}
+
+/* FEATURES SECTION */
+#features{
+  padding: 7% 15%;
+  background-color: white;
+  /*CUT THE IMAGE*/
+  position: relative;
+  z-index: 1;
+}
+/* TESTIMONIAL SECTION */
+#testimonials{
+  background-color: #ef8172;
+  color: #FFF;
+  text-align: center;
+  /*paddin or not*/
+}
+
+/*PRESS SECTION*/
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding: 1%;
+}
+
+/*PRICING SECTION*/
+#pricing{
+  padding: 100px;
+  /*or 100px*/
+  text-align: center;
+}
+/*CALL TO ACTION*/
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 7% 15%;
+}
+
+/*FOOTER SECTION*/
+#footer{
+  padding: 7% 15% 4% 15%; 
+  background-color: #fff;
+  text-align: center;
+}
